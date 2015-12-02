@@ -30,3 +30,5 @@ See a live working example of the simple calculator [here](http://learn-co-curri
  * [jQuery API - Events - Click](http://api.jquery.com/click/)
  * [jQuery API - Text](http://api.jquery.com/text/)
  * [Live Working Example](http://learn-co-curriculum.github.io/fe-jquery-simple-calc/)
+
+<a href='https://learn.co/lessons/fe-jquery-simple-calc' data-visibility='hidden'>View this lesson on Learn.co</a>
