@@ -31,4 +31,4 @@ See a live working example of the simple calculator [here](http://learn-co-curri
  * [jQuery API - Text](http://api.jquery.com/text/)
  * [Live Working Example](http://learn-co-curriculum.github.io/fe-jquery-simple-calc/)
 
-<a href='https://learn.co/lessons/fe-jquery-simple-calc' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-jquery-simple-calc' title='Code Challenge - jQuery Simple Calculator'>Code Challenge - jQuery Simple Calculator</a> on Learn.co and start learning to code for free.</p>
